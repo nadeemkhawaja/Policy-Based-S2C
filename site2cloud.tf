@@ -5,7 +5,7 @@ resource "aviatrix_site2cloud" "site2cloud_1" {
   remote_gateway_type        = "generic"
   tunnel_type                = "policy"
   primary_cloud_gateway_name = "AVX-S2C-GW1"
-  remote_gateway_ip          = "34.194.188.194"
+  remote_gateway_ip          = "xx.yy.188.194"
   ha_enabled                 = true
   enable_single_ip_ha        = true
   private_route_encryption   = false
@@ -34,7 +34,7 @@ resource "aviatrix_site2cloud" "site2cloud_2" {
   remote_gateway_type        = "generic"
   tunnel_type                = "policy"
   primary_cloud_gateway_name = "AVX-S2C-GW1"
-  remote_gateway_ip          = "44.207.31.14"
+  remote_gateway_ip          = "xx.yy.31.14"
   ha_enabled                 = true
   enable_single_ip_ha        = true
   private_route_encryption   = false
