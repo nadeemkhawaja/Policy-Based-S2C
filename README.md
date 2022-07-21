@@ -17,7 +17,7 @@ Customized MAP NAT is used where both sides IP are mapped to virtual IP.
 ```
 
 # Diagram
-```
+
 <img width="546" alt="image" src="https://user-images.githubusercontent.com/40156720/180131200-a94c4255-d571-459c-826a-84666c7233d2.png">
 
-```
+
